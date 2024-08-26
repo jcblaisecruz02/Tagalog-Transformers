@@ -1,6 +1,15 @@
 # Filipino-Text-Benchmarks
 This repository contains open-source benchmark datasets and pretrained transformer models in the low-resource Filipino language.
 
+---
+
+# Update: 2024/08/26
+This repository is **no longer maintained**. 
+
+All datasets ([fake news](https://huggingface.co/datasets/jcblaise/fake_news_filipino), [hatespeech](https://huggingface.co/datasets/jcblaise/hatespeech_filipino), etc.) and models ([roberta-tagalog](https://huggingface.co/jcblaise/roberta-tagalog-base), [electra-tagalog](https://huggingface.co/jcblaise/electra-tagalog-base-cased-discriminator), etc.) have been moved to my HuggingFace profile ([@jcblaise](https://huggingface.co/jcblaise)). The previous download links for resources have also been deprecated in favor of hosting from HF. I have made sure that the files are properly being served from HF now. If there is an issue, please contact me directly via my email.
+
+---
+
 <img src="assets/banner.png" width="70%">
 
 Resources and code released in this repository come from the following papers, with more to be added as they are released:
